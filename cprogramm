@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main()
+{
+char s[10]="Bharath";
+printf("%s\n",s);
+}
